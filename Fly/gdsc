@@ -1,0 +1,9 @@
+#$!/bin/bash
+# sudo ip link set wlan1 down
+# sudo iw dev wlan1 set type monitor
+# sudo ip link set wlan1 up
+echo "GSC_PTIT_2023"
+echo "Update GPS"
+sudo python3 firebase_gps.py
+echo "Upload data devices"
+sudo python3 locate_def.py
