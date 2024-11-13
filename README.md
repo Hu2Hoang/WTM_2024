@@ -19,8 +19,8 @@ Step 1: Make sure you have a wireless network card that support monitor mode
 <br>
 Step 2: Clone the repository
 ```
-git clone https://github.com/Hu2Hoang/GSC_2023.git
-cd GSC_2023
+git clone https://github.com/Hu2Hoang/WTM_2024.git
+cd WTM_2024
 ```
 Step 3: Run two command bellow parallely
 ```
@@ -43,7 +43,7 @@ Three paramaters display on the screen are
 * height
  
 ### On Android
-Download the .apk file at [link](https://github.com/Hu2Hoang/GSC_2023/blob/main/ptitgsc2/app/release/app-release.apk).
+Download the .apk file at [link](https://github.com/Hu2Hoang/WTM_2024/blob/main/ptitgsc2/app/release/app-release.apk).
 The main Interface
 * Part 1: The map view
 ![](https://i.imgur.com/exUFLwl.jpg "")
